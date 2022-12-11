@@ -34,7 +34,12 @@ Shortcuts
 - Ctl-shift-v paste
 - ctl-shift-z redo
 
-Connected and there was a  popup that s
+Connected and there was a  popup that said new device detected, share with linux?.  I did and a new tty showed up:
+
+```
+ls /dev/ttyACM0
+```
+
 ## Install libraries
 
 https://learn.adafruit.com/adafruit-circuit-playground-bluefruit/circuitpython
