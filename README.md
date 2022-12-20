@@ -49,3 +49,6 @@ Goals
 
 - [Device overview](https://learn.adafruit.com/adafruit-circuit-playground-bluefruit)
 - [On Chromebook](https://learn.adafruit.com/using-circuit-playground-express-makecode-circuitpython-on-a-chromebook?view=all)
+- [Circuit Playground](https://code.org/circuitplayground)
+- https://learn.adafruit.com/make-it-pulse
+- https://learn.adafruit.com/pyleap-app
