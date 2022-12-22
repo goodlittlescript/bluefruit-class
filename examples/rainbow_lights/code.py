@@ -1,10 +1,3 @@
-"""
-Circuit Playground Bluefruit Light-Up Tone Piano
-
-Touch the each of the touchpads around the outside of the board to play a tone for each pad.
-Touch A6 and TX at the same time to play the final tone in the octave. A0 is not a touchpad.
-"""
-
 from adafruit_circuitplayground import cp
 import time
 
