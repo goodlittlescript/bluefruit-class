@@ -10,6 +10,7 @@ import time
 
 cp.pixels.brightness = 0.02
 
+# https://bsouthga.dev/posts/color-gradients-with-python
 def hex_to_RGB(hex):
   ''' "#FFFFFF" -> [255,255,255] '''
   # Pass 16 to the integer function for change of base
